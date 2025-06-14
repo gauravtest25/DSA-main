@@ -21,7 +21,7 @@ public class Binarysearch {
     }
     public static void main(String[] args) {
         int numbers[]={2,4,6,8,10,12,14};
-        int key=20;
+        int key=10;
         System.out.println("Index for key is:"+ Binary(numbers,key));
     }
 }
